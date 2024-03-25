@@ -1,0 +1,256 @@
+{
+  "version" : 1,
+  "name" : "Raster Functions History",
+  "historyItems" : [
+    {
+      "id" : "{474F36DB-0CC8-4454-9173-ED3586AD62CD}",
+      "type" : 1,
+      "status" : 4,
+      "name" : "Extract Bands",
+      "description" : "Specifies which bands to work with when using multiband datasets.",
+      "rftPath" : "Extract Bands_{474F36DB-0CC8-4454-9173-ED3586AD62CD}.rft.xml",
+      "startTime" : "638361927690000000",
+      "endTime" : "638361927690000000",
+      "validationMessages" : [
+        "The dataset variable 'Raster' is not assigned."
+      ],
+      "remoteJobStateInfo" : {
+        "ID" : "_lcljob",
+        "Status" : 5,
+        "ReturnValue" : "",
+        "Messages" : [
+          {
+            "Text" : "Submitted.",
+            "Type" : 0
+          },
+          {
+            "Text" : "Executing...",
+            "Type" : 0
+          },
+          {
+            "Text" : "Parameter 'Raster' is missing or invalid. Bind failed in function 'Extract Bands' [Extract Band Function].",
+            "Type" : 100
+          },
+          {
+            "Text" : "Failed.",
+            "Type" : 100
+          }
+        ]
+      }
+    },
+    {
+      "id" : "{2C54C5DA-D325-4FC6-A4E0-FE7763F8C03D}",
+      "type" : 1,
+      "status" : 2,
+      "name" : "Extract Bands",
+      "description" : "Specifies which bands to work with when using multiband datasets.",
+      "rftPath" : "Extract Bands_{2C54C5DA-D325-4FC6-A4E0-FE7763F8C03D}.rft.xml",
+      "startTime" : "638361921740000000",
+      "endTime" : "638361921740000000",
+      "remoteJobStateInfo" : {
+        "ID" : "_lcljob",
+        "Status" : 5,
+        "ReturnValue" : "",
+        "Messages" : [
+          {
+            "Text" : "Submitted.",
+            "Type" : 0
+          },
+          {
+            "Text" : "Executing...",
+            "Type" : 0
+          },
+          {
+            "Text" : "Succeeded.",
+            "Type" : 0
+          }
+        ]
+      }
+    },
+    {
+      "id" : "{1F81F87C-FC68-4882-90EB-1AEC4EE20691}",
+      "type" : 1,
+      "status" : 4,
+      "name" : "Extract Bands",
+      "description" : "Specifies which bands to work with when using multiband datasets.",
+      "rftPath" : "Extract Bands_{1F81F87C-FC68-4882-90EB-1AEC4EE20691}.rft.xml",
+      "startTime" : "638361923150000000",
+      "endTime" : "638361923150000000",
+      "remoteJobStateInfo" : {
+        "ID" : "_lcljob",
+        "Status" : 5,
+        "ReturnValue" : "",
+        "Messages" : [
+          {
+            "Text" : "Submitted.",
+            "Type" : 0
+          },
+          {
+            "Text" : "Executing...",
+            "Type" : 0
+          },
+          {
+            "Text" : "Bind failed in function 'Extract Bands' [Extract Band Function].\nRaster band not found.",
+            "Type" : 100
+          },
+          {
+            "Text" : "Failed.",
+            "Type" : 100
+          }
+        ]
+      }
+    },
+    {
+      "id" : "{373B1FAA-A281-4E8C-B2E5-9BBCBAC854BD}",
+      "type" : 1,
+      "status" : 2,
+      "name" : "Extract Bands",
+      "description" : "Specifies which bands to work with when using multiband datasets.",
+      "rftPath" : "Extract Bands_{373B1FAA-A281-4E8C-B2E5-9BBCBAC854BD}.rft.xml",
+      "startTime" : "638361927270000000",
+      "endTime" : "638361927270000000",
+      "remoteJobStateInfo" : {
+        "ID" : "_lcljob",
+        "Status" : 5,
+        "ReturnValue" : "",
+        "Messages" : [
+          {
+            "Text" : "Submitted.",
+            "Type" : 0
+          },
+          {
+            "Text" : "Executing...",
+            "Type" : 0
+          },
+          {
+            "Text" : "Succeeded.",
+            "Type" : 0
+          }
+        ]
+      }
+    },
+    {
+      "id" : "{0D208BA5-1149-4312-B1DF-B66632A0BC20}",
+      "type" : 1,
+      "status" : 4,
+      "name" : "Extract Bands",
+      "description" : "Specifies which bands to work with when using multiband datasets.",
+      "rftPath" : "Extract Bands_{0D208BA5-1149-4312-B1DF-B66632A0BC20}.rft.xml",
+      "startTime" : "638361923680000000",
+      "endTime" : "638361923680000000",
+      "validationMessages" : [
+        "The dataset variable 'Raster' is not assigned."
+      ],
+      "remoteJobStateInfo" : {
+        "ID" : "_lcljob",
+        "Status" : 5,
+        "ReturnValue" : "",
+        "Messages" : [
+          {
+            "Text" : "Submitted.",
+            "Type" : 0
+          },
+          {
+            "Text" : "Executing...",
+            "Type" : 0
+          },
+          {
+            "Text" : "Parameter 'Raster' is missing or invalid. Bind failed in function 'Extract Bands' [Extract Band Function].",
+            "Type" : 100
+          },
+          {
+            "Text" : "Failed.",
+            "Type" : 100
+          }
+        ]
+      }
+    },
+    {
+      "id" : "{42CF38D1-9DD5-47FC-95DD-4461E45180C9}",
+      "type" : 1,
+      "status" : 2,
+      "name" : "Extract Bands",
+      "description" : "Specifies which bands to work with when using multiband datasets.",
+      "rftPath" : "Extract Bands_{42CF38D1-9DD5-47FC-95DD-4461E45180C9}.rft.xml",
+      "startTime" : "638361928060000000",
+      "endTime" : "638361928060000000",
+      "remoteJobStateInfo" : {
+        "ID" : "_lcljob",
+        "Status" : 5,
+        "ReturnValue" : "",
+        "Messages" : [
+          {
+            "Text" : "Submitted.",
+            "Type" : 0
+          },
+          {
+            "Text" : "Executing...",
+            "Type" : 0
+          },
+          {
+            "Text" : "Succeeded.",
+            "Type" : 0
+          }
+        ]
+      }
+    },
+    {
+      "id" : "{2871E169-9F7B-467B-9563-86D89E3C2B97}",
+      "type" : 1,
+      "status" : 2,
+      "name" : "Extract Bands",
+      "description" : "Specifies which bands to work with when using multiband datasets.",
+      "rftPath" : "Extract Bands_{2871E169-9F7B-467B-9563-86D89E3C2B97}.rft.xml",
+      "startTime" : "638361923850000000",
+      "endTime" : "638361923850000000",
+      "remoteJobStateInfo" : {
+        "ID" : "_lcljob",
+        "Status" : 5,
+        "ReturnValue" : "",
+        "Messages" : [
+          {
+            "Text" : "Submitted.",
+            "Type" : 0
+          },
+          {
+            "Text" : "Executing...",
+            "Type" : 0
+          },
+          {
+            "Text" : "Succeeded.",
+            "Type" : 0
+          }
+        ]
+      }
+    },
+    {
+      "id" : "{5FAEFBDF-C893-486F-A880-B55A487154CC}",
+      "type" : 1,
+      "status" : 2,
+      "name" : "Extract Bands",
+      "description" : "Specifies which bands to work with when using multiband datasets.",
+      "rftPath" : "Extract Bands_{5FAEFBDF-C893-486F-A880-B55A487154CC}.rft.xml",
+      "startTime" : "638361927920000000",
+      "endTime" : "638361927920000000",
+      "remoteJobStateInfo" : {
+        "ID" : "_lcljob",
+        "Status" : 5,
+        "ReturnValue" : "",
+        "Messages" : [
+          {
+            "Text" : "Submitted.",
+            "Type" : 0
+          },
+          {
+            "Text" : "Executing...",
+            "Type" : 0
+          },
+          {
+            "Text" : "Succeeded.",
+            "Type" : 0
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Tuesday, November 28, 2023 4:05:33 PM</msg><msg code="0" type="0">Random Seed: 866028</msg><msg code="1" type="100">Traceback (most recent call last):
+  File "&lt;string&gt;", line 11580, in execute
+  File "c:\program files\arcgis\pro\Resources\ArcToolbox\Scripts\SSForest.py", line 7987, in execute
+    created = rasterWorkFlow(*infoRasterArg)
+  File "c:\program files\arcgis\pro\Resources\ArcToolbox\Scripts\SSForest.py", line 7766, in rasterWorkFlow
+    rfTraining.loadDataRasterForTraining(infoRaster, ssdoTraining, hpar.variableToPredict, userTypeRF,
+  File "c:\program files\arcgis\pro\Resources\ArcToolbox\Scripts\SSForest.py", line 208, in loadDataRasterForTraining
+    dataX, mask = infoRaster.extractDataFromPolygons(ssdo)
+  File "c:\program files\arcgis\pro\Resources\ArcToolbox\Scripts\SSForest.py", line 6842, in extractDataFromPolygons
+    self.centroids, maskedIds = self.getCentroids(self.idCentroids, srfTo = self.srf, ids = self.polygonMask)
+  File "c:\program files\arcgis\pro\Resources\ArcToolbox\Scripts\SSForest.py", line 6712, in getCentroids
+    start = NUM.int64(rangeZone[0]),
+TypeError: 'NoneType' object is not subscriptable
+</msg><msg code="-2147467259" type="100">Failed to execute (Forest).</msg><msg code="0" type="3">Failed at Tuesday, November 28, 2023 4:08:08 PM (Elapsed Time: 2 minutes 34 seconds)</msg></messages>

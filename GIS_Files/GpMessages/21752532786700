@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Tuesday, November 28, 2023 2:37:25 PM</msg><msg code="0" type="0">con(Raster(r"G:\575\Final_project\Final_project.gdb\cali_fire_perimeter_Resample") == 1, Raster(r"G:\575\Final_project\Final_project.gdb\cali_fire_perimeter_Resample"),Raster(r"G:\575\Final_project\Final_project.gdb\cali_boundary_Resample"))</msg><msg code="539" type="100">ERROR 000539: Traceback (most recent call last):
+  File "&lt;expression&gt;", line 1, in &lt;module&gt;
+  File "&lt;string&gt;", line 5, in rcexec_DC684390_0C54_4F14_9EBF_B34DF3F2E1B1
+NameError: name 'con' is not defined
+</msg><msg code="-2147467259" type="100">Failed to execute (RasterCalculator).</msg><msg code="0" type="3">Failed at Tuesday, November 28, 2023 2:37:39 PM (Elapsed Time: 14.07 seconds)</msg></messages>
